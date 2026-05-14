@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "testimonials",
+			"path": "../McCamp/frontend/public/testimonials"
+		},
+		{
+			"name": "MC",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
